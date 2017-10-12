@@ -1,0 +1,16 @@
+2017-10-12 12:33:33,862  INFO com.epam.lab.reporting.utils.TestNGListener:39 - test starts Surefire test on Thu Oct 12 12:33:33 EEST 2017
+2017-10-12 12:33:36,639  INFO com.epam.lab.reporting.utils.TestNGListener:14 - test starts null
+2017-10-12 12:33:49,316  INFO com.epam.lab.reporting.utils.TestNGListener:24 - test failed null
+2017-10-12 12:33:52,345  INFO com.epam.lab.reporting.utils.TestNGListener:14 - test starts null
+2017-10-12 12:34:02,975  INFO com.epam.lab.reporting.GmailLoginTest:20 - Test passed
+2017-10-12 12:34:03,866  INFO com.epam.lab.reporting.utils.TestNGListener:19 - test passed null during time 11521
+2017-10-12 12:34:05,804  INFO com.epam.lab.reporting.utils.TestNGListener:14 - test starts null
+2017-10-12 12:34:14,870  INFO com.epam.lab.reporting.GmailLoginTest:20 - Test passed
+2017-10-12 12:34:15,785  INFO com.epam.lab.reporting.utils.TestNGListener:19 - test passed null during time 9981
+2017-10-12 12:34:18,526  INFO com.epam.lab.reporting.utils.TestNGListener:14 - test starts null
+2017-10-12 12:34:29,520  INFO com.epam.lab.reporting.GmailLoginTest:36 - Test passed
+2017-10-12 12:34:29,520  INFO com.epam.lab.reporting.utils.TestNGListener:19 - test passed null during time 10994
+2017-10-12 12:34:32,376  INFO com.epam.lab.reporting.utils.TestNGListener:14 - test starts null
+2017-10-12 12:34:40,583  INFO com.epam.lab.reporting.GmailLoginTest:36 - Test passed
+2017-10-12 12:34:40,583  INFO com.epam.lab.reporting.utils.TestNGListener:19 - test passed null during time 8207
+2017-10-12 12:34:41,459  INFO com.epam.lab.reporting.utils.TestNGListener:44 - test ends Surefire test onThu Oct 12 12:34:41 EEST 2017

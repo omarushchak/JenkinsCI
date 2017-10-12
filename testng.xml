@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test suite" data-provider-thread-count="2">
+    <listeners>
+        <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    </listeners>
+    <test name="Gmail Test">
+        <classes>
+            <class name="com.epam.lab.reporting.GmailLoginTest"/>
+            <class name="com.epam.lab.reporting.GmailFailedLoginTest"/>
+        </classes>
+    </test>
+</suite>
